@@ -1,0 +1,6 @@
+order_0001,pdt_01,222.8
+order_0001,pdt_05,25.8
+order_0002,pdt_03,522.8
+order_0002,pdt_04,122.4
+order_0002,pdt_05,722.4
+order_0003,pdt_01,222.8
